@@ -1,0 +1,19 @@
+
+.category{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin-bottom: 100px;
+
+}
+.category div{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 20px;
+    
+}
+.category div img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}

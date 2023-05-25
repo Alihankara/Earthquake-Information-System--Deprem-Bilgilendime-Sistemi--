@@ -1,0 +1,29 @@
+
+.card{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-bottom: 100px;
+    border-top: 2px solid red;
+    width: 100%;
+    height: 250px;
+    padding-top: 70px;
+    border-radius: 0px;
+    border-right: none;
+    border-left: none;
+}
+.card div{
+    border: none;
+    width: 100%;
+    height: 250px;
+    
+    
+}
+.card .firstDiv{
+    margin-right: 20px;
+}
+.card div img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
